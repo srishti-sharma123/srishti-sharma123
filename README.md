@@ -30,7 +30,6 @@ Application development professional with experience in enterprise application i
 
 **Microsoft Technologies**
 - Microsoft Dynamics 365 Finance & Operations
-- Microsoft Dynamics 365 CRM
 - Microsoft Azure Fundamentals
 
 ## Featured Projects
@@ -58,11 +57,6 @@ Hands-on projects focused on strengthening frontend development fundamentals, us
 - Entity Framework Core and database design
 - Writing maintainable, testable backend code
 - Building end-to-end applications with authentication and authorization
-
-## Certifications
-
-- Microsoft Azure Fundamentals — AZ-900 Exam Preparation *(list as a certification only if you have earned the official certification; otherwise, describe it as training)* 
-- Microsoft Power Platform Fundamentals *(add the official credential only if earned)*
 
 ## Connect With Me
 
